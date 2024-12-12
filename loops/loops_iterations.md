@@ -30,7 +30,8 @@ f.__next__() # This can also be used to get to the next line
   #### Iter()
   - We need to this in the list or set but do not have to do this in file 
   - int file the file_name is itself it's iterator so no need of ite
-  ###### Example of in List 
+ 
+ ###### Example of in List 
   ![alt text](image-2.png)
 
 
